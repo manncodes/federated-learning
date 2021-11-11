@@ -1,0 +1,7 @@
+Fedarated learning paper:
+- stocastic weight averaging w/ lr schedular
+- FedAvg Modified ?/ 
+- Do something to tackle non-iid data!
+    -> like Local Batch Normalization in Fedarated fashion
+    -> 
+- Experiment with different optimizers
