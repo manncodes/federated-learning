@@ -5,3 +5,5 @@ ref
 **/dataset
 
 src/wandb/**
+
+**/__pycache__

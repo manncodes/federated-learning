@@ -9,7 +9,7 @@ Federated learning is a method for training a model on multiple machines. It is 
     3. **Model**: A model is a collection of weights and biases. Model can be global or local.
     4. **Optimizer**: An optimizer is a function that updates the global model based on the gradients computed by backpropagation on the clients.
 
-![Fedarated learning workflow](img\fl_workflow.png)
+![Fedarated learning workflow](img/fl_workflow.png)
 
 ## Setup
 
@@ -46,11 +46,11 @@ Following configurations can be done:
 
 ## Results
 
-![Accuracy on CIFAR10 task](img\result-acc.png)
+![Accuracy on CIFAR10 task](img/result-acc.png)
 
-![line chart of different optimizers during training](img\result-opt.png)
+![line chart of different optimizers during training](img/result-opt.png)
 
-![line chart of accuracy on CIFAR10 task during training with variable number of clients](img\result-num-clients.png)
+![line chart of accuracy on CIFAR10 task during training with variable number of clients](img/result-num-clients.png)
 
 
 ## References
